@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard designed to visualize and analyze student performance data.
 
-## Overview
+📌 Overview
 
 The "Student Performance Dashboard" provides insights into various aspects of student data, including:
 
@@ -10,7 +10,8 @@ The "Student Performance Dashboard" provides insights into various aspects of st
 * **Students Count by Enrollment Date:** Shows the trend of student enrollment over time.
 * **Student Breakdown by Payment Method:** Displays the distribution of payment methods used by students.
 * **Student Data Table:** Provides detailed information about students, including their country, department (Arts, Commerce, Engineering, Science), payment method, creation date, and student ID.
-
+  
+![image](https://github.com/krishna1015/Power-BI-Portfolio-Project-/blob/main/dashboard%20screenshot.png)
 
 ## Data Source
 
@@ -25,7 +26,7 @@ The data for this dashboard is sourced from a database of click consulting conta
 * **Created Date:** Date the student record was created.
 * **Student ID:** Unique student identifier.
 
-## Setup
+📊 Setup
 
 1.  **Download the Power BI file (.pbix):** Clone or download the repository to your local machine.
 2.  **Open the file in Power BI Desktop:** Ensure you have Power BI Desktop installed.
@@ -43,10 +44,10 @@ Once the dashboard is set up with your data, you can use it to:
 * **Gain insights into student demographics:** Explore student data based on country and department.
 * **Filter and drill down into specific data points:** Use the filters and slicers to focus on specific student groups.
 
-## Contribution
+🤝 Contribution
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
 
-## Contact
+📞 Contact
 
 For any questions or feedback, please contact Krishna.khadka1015@gmail.com.

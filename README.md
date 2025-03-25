@@ -11,6 +11,7 @@ The "Student Performance Dashboard" provides insights into various aspects of st
 * **Student Breakdown by Payment Method:** Displays the distribution of payment methods used by students.
 * **Student Data Table:** Provides detailed information about students, including their country, department (Arts, Commerce, Engineering, Science), payment method, creation date, and student ID.
 
+
 ## Data Source
 
 The data for this dashboard is sourced from a database of click consulting containing student information. The data include the following fields:
